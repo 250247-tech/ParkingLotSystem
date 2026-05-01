@@ -115,3 +115,4 @@ public class LoginScene {
 
     public Scene getScene() { return scene; }
 }
+// Developed by Person 2
